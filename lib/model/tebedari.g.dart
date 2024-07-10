@@ -21,14 +21,15 @@ class TebedariAdapter extends TypeAdapter<Tebedari> {
       name: fields[1] as String,
       debit: fields[2] as double,
       credit: fields[3] as double,
-      transactions: (fields[4] as List).cast<String>(),
+      lastReason: fields[4] as String,
+      transactions: (fields[5] as List?)?.cast<String>(),
     );
   }
 
   @override
   void write(BinaryWriter writer, Tebedari obj) {
     writer
-      ..writeByte(5)
+      ..writeByte(6)
       ..writeByte(0)
       ..write(obj.id)
       ..writeByte(1)
@@ -38,6 +39,8 @@ class TebedariAdapter extends TypeAdapter<Tebedari> {
       ..writeByte(3)
       ..write(obj.credit)
       ..writeByte(4)
+      ..write(obj.lastReason)
+      ..writeByte(5)
       ..write(obj.transactions);
   }
 

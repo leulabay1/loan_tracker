@@ -7,17 +7,17 @@ class Transaction {
   final String id;
 
   @HiveField(1)
-  final String title;
+  final String reason;
 
   @HiveField(2)
-  final double amount;
+  final num amount;
 
   @HiveField(3)
   final DateTime date;
 
   Transaction(
       {required this.id,
-      required this.title,
+      required this.reason,
       required this.amount,
       required this.date});
 }
