@@ -14,7 +14,7 @@ Loan Tracker is a Flutter application designed to help you keep track of the loa
 
 ## Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<p>
     <div style="padding: 10px;">
         <img src="screenshots/photo_5_2024-07-27_11-18-40.jpg" alt="Home Screen" style="max-width: 100%; height: auto;" />
         <p align="center">Home Screen: View all your friends and their respective loans.</p>
@@ -43,7 +43,7 @@ Loan Tracker is a Flutter application designed to help you keep track of the loa
         <img src="screenshots/photo_7_2024-07-27_11-18-40.jpg" alt="Settings Screen" style="max-width: 100%; height: auto;" />
         <p align="center">Settings Screen</p>
     </div>
-</div>
+</p>
 
 ## Installation
 
