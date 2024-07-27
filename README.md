@@ -14,7 +14,23 @@ Loan Tracker is a Flutter application designed to help you keep track of the loa
 
 ## Screenshots
 
-*Include screenshots of your app here.*
+![Home Screen](screenshots/photo_5_2024-07-27_11-18-40.jpg)
+*Home Screen: View all your friends and their respective loans.*
+
+![Add Friend](screenshots/photo_6_2024-07-27_11-18-40.jpg)
+*Add Friend Screen: Easily add new friends to your loan tracker.*
+
+![Add Loan](screenshots/photo_2_2024-07-27_11-18-40.jpg)
+*Add Loan Screen: Record new loans given to your friends.*
+
+![Add Loan](screenshots/photo_1_2024-07-27_11-18-40.jpg)
+
+![Add Loan](screenshots/photo_3_2024-07-27_11-18-40.jpg)
+
+![Add Loan](screenshots/photo_4_2024-07-27_11-18-40.jpg)
+
+![Add Loan](screenshots/photo_7_2024-07-27_11-18-40.jpg)
+
 
 ## Installation
 
