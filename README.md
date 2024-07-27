@@ -15,28 +15,28 @@ Loan Tracker is a Flutter application designed to help you keep track of the loa
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="flex: 1; padding: 10px; width: 100px;">
+    <div style="padding: 10px; width: 100px;">
         <img src="screenshots/photo_5_2024-07-27_11-18-40.jpg" alt="Home Screen" style="max-width: 100%; height: auto;" />
         <p align="center">Home Screen: View all your friends and their respective loans.</p>
     </div>
-    <div style="flex: 1; padding: 10px; width: 30%;">
+    <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_6_2024-07-27_11-18-40.jpg" alt="Add Friend Screen" style="max-width: 100%; height: auto;" />
         <p align="center">Add Friend Screen: Easily add new friends to your loan tracker.</p>
     </div>
-    <div style="flex: 1; padding: 10px; width: 30%;">
+    <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_2_2024-07-27_11-18-40.jpg" alt="Add Loan Screen" style="max-width: 100%; height: auto;" />
         <p align="center">Add Loan Screen: Record new loans given to your friends.</p>
     </div>
-   <div style="flex: 1; padding: 10px; width: 30%;">
+   <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_1_2024-07-27_11-18-40.jpg" alt="Add Loan Screen" style="max-width: 100%; height: auto;" />
     </div>
-   <div style="flex: 1; padding: 10px; width: 30%;">
+   <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_3_2024-07-27_11-18-40.jpg" alt="Add Loan Screen" style="max-width: 100%; height: auto;" />
     </div>
-   <div style="flex: 1; padding: 10px; width: 30%;">
+   <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_4_2024-07-27_11-18-40.jpg" alt="Add Loan Screen" style="max-width: 100%; height: auto;" />
     </div>
-   <div style="flex: 1; padding: 10px; width: 30%;">
+   <div style="padding: 10px; width: 30%;">
         <img src="screenshots/photo_7_2024-07-27_11-18-40.jpg" alt="Add Loan Screen" style="max-width: 100%; height: auto;" />
     </div>
 </div>
