@@ -20,7 +20,7 @@ Loan Tracker is a Flutter application designed to help you keep track of the loa
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/loan-tracker-app.git
+   git clone https://github.com/leulabay1/loan_tracker.git
    cd loan-tracker-app
    ```
 
